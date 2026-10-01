@@ -1,0 +1,6 @@
+{
+  "name": "9А Ангийн Цахим Портал",
+  "description": "9А ангийн сурагчид, багш нар, хичээлийн хуваарь, гэрийн даалгавар болон зарын нэгдсэн цахим систем.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
